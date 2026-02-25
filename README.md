@@ -6,17 +6,11 @@ This repo is intended for DATA 4000, and is all about **libraries**
 ## For installing librarues with a vistual environment
 1. create a repo on github
 2. open VSC and connect to the repo, which creates a new folder on your computer
-3. then create a vistual environment before trying to install packages as follows ( **BUT YOU WILL NEED TO ADJUST THIS CODE TO YOUR DIRECTORY NAME - THIS WAS DONE ON MY COMPUTER** :
+3. then create a vistual environment before trying to install packages as follows:
 
 # Create a Virtual Environment Using Python 3.14 (macOS + VS Code)
 
-## 1️⃣ Navigate to Your Project Folder
 
-```bash
-cd ~/Documents/DATA\ 4000/libraries-spring2026
-```
-
----
 
 ## 2️⃣ Create a Virtual Environment (using Python 3.14)
 
@@ -37,7 +31,7 @@ source .venv/bin/activate
 You should now see something like:
 
 ```bash
-(.venv) imowerman@DSBN323-C9522M %
+(.venv) *your-directory-name* %
 ```
 
 ---
